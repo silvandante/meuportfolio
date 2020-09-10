@@ -42,7 +42,7 @@ export default ({
     <Container id="contact">
       <TwoColumn>
         <ImageColumn>
-          <Image imageSrc={`contact.png`} />
+          <Image imageSrc={'../images/contact.png'} />
         </ImageColumn>
         <TextColumn textOnLeft={textOnLeft}>
           <TextContent>

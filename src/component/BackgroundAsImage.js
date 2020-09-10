@@ -127,7 +127,7 @@ export default () => {
             <Link duration={500} smooth={true} to="experience"><PrimaryAction>Minha Experiência</PrimaryAction></Link>
           </LeftColumn>
           <RightColumn>
-            <img style={{borderRadius:360,paddingTop:-400,width:400,height:400,objectFit:"cover",textAlign:"top",backgroundPosition:"top center"}} src={`/myself.jpg`} />
+            <img style={{borderRadius:360,paddingTop:-400,width:400,height:400,objectFit:"cover",textAlign:"top",backgroundPosition:"top center"}} src={'../images/myself.jpg'} />
           </RightColumn>
         </TwoColumn>
       </HeroContainer>
