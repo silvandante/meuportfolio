@@ -17,7 +17,7 @@ const StyledHeader = styled(Header)`
 `;
 const Container = styled.div`
   ${tw`relative -mx-8 -mt-8 bg-center bg-cover`}
-  background-image: url('/bg.jpg');
+  background-image: url('https://silvandante.github.io/meuportfolio/bg.jpg');
 `;
 
 const OpacityOverlay = tw.div`z-10 absolute inset-0 bg-blue-800 opacity-25`;
@@ -127,7 +127,7 @@ export default () => {
             <Link duration={500} smooth={true} to="experience"><PrimaryAction>Minha Experiência</PrimaryAction></Link>
           </LeftColumn>
           <RightColumn>
-            <img style={{borderRadius:360,paddingTop:-400,width:400,height:400,objectFit:"cover",textAlign:"top",backgroundPosition:"top center"}} src={`myself.jpg`} />
+            <img style={{borderRadius:360,paddingTop:-400,width:400,height:400,objectFit:"cover",textAlign:"top",backgroundPosition:"top center"}} src={'https://silvandante.github.io/meuportfolio/myself.jpg'} />
           </RightColumn>
         </TwoColumn>
       </HeroContainer>

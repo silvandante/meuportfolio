@@ -63,24 +63,24 @@ export default () => {
 
   const cards = [
     {
-      imageSrc: `/meuportfolio/reactnative.png`,
+      imageSrc: 'https://silvandante.github.io/meuportfolio/reactnative.png',
       title: "React Native",
       description: "Experiência com Arquitetura Offline First, comunicação com REST API, Redux (Saga, Persist), Geolocalização, Push Notification, Real Time, Google ARCore e bibliotecas Google"
     },
     {
-      imageSrc: `/meuportfolio/android.png`,
+      imageSrc: 'https://silvandante.github.io/meuportfolio/android.png',
       title: "Java - Android Studio",
       description: "Experiência com Broadcast (Receiver - Listener), comunicação com REST API, LocalStorage, PushNotification FCM, Arquitetura Offline First, Geolocalização, Google ARCore e bibliotecas Google"
     },
-    { imageSrc:`/meuportfolio/reactnative.png`, title: "React JS" ,
+    { imageSrc:'https://silvandante.github.io/meuportfolio/reactnative.png', title: "React JS" ,
     description: "Experiência com Redux, Geolocalização, Google ARCore e bibliotecas Google"},
-    { imageSrc:  `/meuportfolio/nodejs.png`, title: "Node JS",
+    { imageSrc:  'https://silvandante.github.io/meuportfolio/nodejs.png', title: "Node JS",
     description: "Experiência com REST API, JWT, PayPal, Microsserviços com comunicação AMQP." },
-    { imageSrc: `/meuportfolio/dj.png`, title: "Django",
+    { imageSrc: 'https://silvandante.github.io/meuportfolio/dj.png', title: "Django",
     description: "Experiência com Django Rest Framework, JWT, Microsserviços com comunicação AMQP, Pagseuro." },
-    { imageSrc: `/meuportfolio/aws.png`, title: "AWS",
+    { imageSrc: 'https://silvandante.github.io/meuportfolio/aws.png', title: "AWS",
     description: "Experiência com S3 Bucket, EC2, Lambda." },
-    { imageSrc: `/meuportfolio/heroku.png`, title: "Heroku",
+    { imageSrc: 'https://silvandante.github.io/meuportfolio/heroku.png', title: "Heroku",
     description: "Experiência com deploy com uso de docker." },
   ];
 

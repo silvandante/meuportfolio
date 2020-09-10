@@ -80,7 +80,7 @@ export default ({
   
     {
       imageSrc:
-        `/meuportfolio/figura35.png`,
+      'https://silvandante.github.io/meuportfolio/figura35.png',
       profileImageSrc:
         "https://avatars3.githubusercontent.com/u/26912688?s=400&u=651cd85c269b9268e8a9fe03ed8c965b2989a333&v=4",
       quote:
@@ -91,7 +91,7 @@ export default ({
     },
     {
       imageSrc:
-        `/meuportfolio/offlinefirst.png`,
+      'https://silvandante.github.io/meuportfolio/offlinefirst.png',
       profileImageSrc:
         "https://avatars3.githubusercontent.com/u/26912688?s=400&u=651cd85c269b9268e8a9fe03ed8c965b2989a333&v=4",
       quote:
@@ -102,7 +102,7 @@ export default ({
     },
     {
       imageSrc:
-        `/meuportfolio/salvevidas.png`,
+      'https://silvandante.github.io/meuportfolio/salvevidas.png',
       profileImageSrc:
         "https://avatars3.githubusercontent.com/u/26912688?s=400&u=651cd85c269b9268e8a9fe03ed8c965b2989a333&v=4",
       quote:
@@ -113,7 +113,7 @@ export default ({
     },
     {
       imageSrc:
-        `/meuportfolio/vida.png`,
+      'https://silvandante.github.io/meuportfolio/vida.png',
       profileImageSrc:
         "https://avatars3.githubusercontent.com/u/26912688?s=400&u=651cd85c269b9268e8a9fe03ed8c965b2989a333&v=4",
       quote:
@@ -124,7 +124,7 @@ export default ({
     },
     {
       imageSrc:
-        `/meuportfolio/masterbots.png`,
+      'https://silvandante.github.io/meuportfolio/masterbots.png',
       profileImageSrc:
         "https://avatars3.githubusercontent.com/u/26912688?s=400&u=651cd85c269b9268e8a9fe03ed8c965b2989a333&v=4",
       quote:
@@ -135,7 +135,7 @@ export default ({
     },
     {
       imageSrc:
-        `/meuportfolio/pontosculturais.png`,
+      'https://silvandante.github.io/meuportfolio/pontosculturais.png',
       profileImageSrc:
         "https://avatars3.githubusercontent.com/u/26912688?s=400&u=651cd85c269b9268e8a9fe03ed8c965b2989a333&v=4",
       quote:

@@ -33,7 +33,7 @@ export default () => {
       <Content>
         <Row>
           <LogoContainer>
-            <LogoImg src={`/meuportfolio/logo192.png`} />
+            <LogoImg src={'https://silvandante.github.io/meuportfolio/logo192.png'} />
             <LogoText>Anny Walker</LogoText>
           </LogoContainer>
           <LinksContainer>

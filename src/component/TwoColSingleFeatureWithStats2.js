@@ -73,7 +73,7 @@ export default ({
     <Container id="aboutme">
       <TwoColumn css={!imageInsideDiv && tw`md:items-center`}>
         <ImageColumn css={imageContainerCss}>
-          {imageInsideDiv ? <Image imageSrc={`/meuportfolio/estudante.jpg`} css={imageCss} /> : <img src={imageSrc} css={imageCss} alt="" />}
+          {imageInsideDiv ? <Image imageSrc={'https://silvandante.github.io/meuportfolio/estudante.jpg'} css={imageCss} /> : <img src={imageSrc} css={imageCss} alt="" />}
           {imageDecoratorBlob && <DecoratorBlob css={imageDecoratorBlobCss} />}
         </ImageColumn>
         <TextColumn textOnLeft={textOnLeft}>
