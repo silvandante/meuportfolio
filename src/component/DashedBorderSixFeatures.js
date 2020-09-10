@@ -63,19 +63,24 @@ export default () => {
 
   const cards = [
     {
-      imageSrc: `/reactnative.png`,
+      imageSrc: `/meuportfolio/reactnative.png`,
       title: "React Native",
-      description: "Experiência com Arquitetura Offline First, Redux (Saga, Persist), Geolocalização, Push Notification, Real Time, Google ARCore e bibliotecas Google"
+      description: "Experiência com Arquitetura Offline First, comunicação com REST API, Redux (Saga, Persist), Geolocalização, Push Notification, Real Time, Google ARCore e bibliotecas Google"
     },
-    { imageSrc:`/reactnative.png`, title: "React JS" ,
+    {
+      imageSrc: `/meuportfolio/android.png`,
+      title: "Java - Android Studio",
+      description: "Experiência com Broadcast (Receiver - Listener), comunicação com REST API, LocalStorage, PushNotification FCM, Arquitetura Offline First, Geolocalização, Google ARCore e bibliotecas Google"
+    },
+    { imageSrc:`/meuportfolio/reactnative.png`, title: "React JS" ,
     description: "Experiência com Redux, Geolocalização, Google ARCore e bibliotecas Google"},
-    { imageSrc:  `/nodejs.png`, title: "Node JS",
+    { imageSrc:  `/meuportfolio/nodejs.png`, title: "Node JS",
     description: "Experiência com REST API, JWT, PayPal, Microsserviços com comunicação AMQP." },
-    { imageSrc: `/dj.png`, title: "Django",
+    { imageSrc: `/meuportfolio/dj.png`, title: "Django",
     description: "Experiência com Django Rest Framework, JWT, Microsserviços com comunicação AMQP, Pagseuro." },
-    { imageSrc: `/aws.png`, title: "AWS",
+    { imageSrc: `/meuportfolio/aws.png`, title: "AWS",
     description: "Experiência com S3 Bucket, EC2, Lambda." },
-    { imageSrc: `/heroku.png`, title: "Heroku",
+    { imageSrc: `/meuportfolio/heroku.png`, title: "Heroku",
     description: "Experiência com deploy com uso de docker." },
   ];
 

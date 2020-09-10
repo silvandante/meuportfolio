@@ -93,7 +93,7 @@ export default ({
     <Container id="experience">
       <TwoColumn>
         <ImageColumn>
-          <Image imageSrc={'../images/work.png'} />
+          <Image imageSrc={`/meuportfolio/work.png`} />
         </ImageColumn>
         <TextColumn textOnLeft={textOnLeft}>
           <TextContent>

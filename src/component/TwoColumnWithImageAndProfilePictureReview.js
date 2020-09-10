@@ -80,7 +80,7 @@ export default ({
   
     {
       imageSrc:
-        `figura35.png`,
+        `/meuportfolio/figura35.png`,
       profileImageSrc:
         "https://avatars3.githubusercontent.com/u/26912688?s=400&u=651cd85c269b9268e8a9fe03ed8c965b2989a333&v=4",
       quote:
@@ -91,7 +91,7 @@ export default ({
     },
     {
       imageSrc:
-        `offlinefirst.png`,
+        `/meuportfolio/offlinefirst.png`,
       profileImageSrc:
         "https://avatars3.githubusercontent.com/u/26912688?s=400&u=651cd85c269b9268e8a9fe03ed8c965b2989a333&v=4",
       quote:
@@ -102,18 +102,18 @@ export default ({
     },
     {
       imageSrc:
-        `salvevidas.png`,
+        `/meuportfolio/salvevidas.png`,
       profileImageSrc:
         "https://avatars3.githubusercontent.com/u/26912688?s=400&u=651cd85c269b9268e8a9fe03ed8c965b2989a333&v=4",
       quote:
-        "Salve Vidas: site para doações e arrecadações para comunidades originárias do Brasil.",
+        "/meuportfolio/Salve Vidas: site para doações e arrecadações para comunidades originárias do Brasil.",
       customerName: "Anny Walker",
       customerTitle: "Responsável por Front-End, Back-End e integração com Paypal",
       url: "https://salvevidas.org/"
     },
     {
       imageSrc:
-        `vida.png`,
+        `/meuportfolio/vida.png`,
       profileImageSrc:
         "https://avatars3.githubusercontent.com/u/26912688?s=400&u=651cd85c269b9268e8a9fe03ed8c965b2989a333&v=4",
       quote:
@@ -124,7 +124,7 @@ export default ({
     },
     {
       imageSrc:
-        `masterbots.png`,
+        `/meuportfolio/masterbots.png`,
       profileImageSrc:
         "https://avatars3.githubusercontent.com/u/26912688?s=400&u=651cd85c269b9268e8a9fe03ed8c965b2989a333&v=4",
       quote:
@@ -135,7 +135,7 @@ export default ({
     },
     {
       imageSrc:
-        `pontosculturais.png`,
+        `/meuportfolio/pontosculturais.png`,
       profileImageSrc:
         "https://avatars3.githubusercontent.com/u/26912688?s=400&u=651cd85c269b9268e8a9fe03ed8c965b2989a333&v=4",
       quote:
