@@ -69,7 +69,7 @@ export default () => {
     },
     {
       imageSrc: 'https://silvandante.github.io/meuportfolio/android.png',
-      title: "Java - Android Studio",
+      title: "Java e Kotlin - Android Studio",
       description: "Experiência com Broadcast (Receiver - Listener), comunicação com REST API, LocalStorage, PushNotification FCM, Arquitetura Offline First, Geolocalização, Google ARCore e bibliotecas Google"
     },
     { imageSrc:'https://silvandante.github.io/meuportfolio/reactnative.png', title: "React JS" ,
