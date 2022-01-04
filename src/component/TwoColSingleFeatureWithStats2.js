@@ -62,9 +62,6 @@ export default ({
     {
       key: "Sou graduada em Ciência da Computação (UFRR)"
     },
-    {
-      key: "E estou cursando Especialização em Arquitetura de Sistemas Distribuídos (PUC-Minas)"
-    }
   ];
 
   if (!statistics) statistics = defaultStatistics;
